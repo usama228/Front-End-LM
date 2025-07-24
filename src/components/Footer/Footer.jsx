@@ -49,8 +49,7 @@ const Footer = () => {
               Shopy 
             </h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum in
-              beatae ea recusandae blanditiis veritatis.
+              thankyou for your time
             </p>
           </div>
 
